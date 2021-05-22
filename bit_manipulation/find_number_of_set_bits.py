@@ -1,3 +1,4 @@
+#Brian Kernighan’s Algorithm
 x = int(input())
 count = 0
 while(x):
